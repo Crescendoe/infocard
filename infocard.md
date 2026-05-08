@@ -10,7 +10,7 @@ open_to: [full-time, contract]
 # William Wyler
 **Full-Stack Software Engineer** · Oklahoma City, OK
 
-[crescendoedd@gmail.com](mailto:crescendoedd@gmail.com) · [GitHub](https://github.com/Crescendoe) · [LinkedIn](https://linkedin.com/in/william-wyler-46b7012b7) · [dialedcoffee.app](https://dialedcoffee.app)
+[crescendoedd@gmail.com](mailto:crescendoedd@gmail.com) · [GitHub](https://github.com/Crescendoe) · [LinkedIn](https://linkedin.com/in/william-wyler-46b7012b7) · [dialedcoffee.app](https://www.dialedcoffee.app)
 
 ---
 
